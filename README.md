@@ -1,9 +1,11 @@
 # package_name
 
 Description. 
-The package package_name is used to:
+The package image_processing is used to:
+	Processing:
+	- Histograms
+	- Structural similarity index measure
 	- 
-	-
 
 ## Installation
 
