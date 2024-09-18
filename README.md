@@ -23,7 +23,7 @@ file1_name.my_function()
 ```
 
 ## Author
-My_name
+Saulo Ferraz
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
